@@ -52,7 +52,8 @@ print(int(otraotra))
 # crear un programa en python que de manera aleatoria llene esa matriz.
 # visualizar el canal rojo, verde y azul.
 # implementar un filtro que pase la imagen a color a escala de grises.
-# crear la imagen aleatoria.
+# crear la imagen aleatoria. 
+# Biblioteca grafica que permita hacer botones.
 
 
 
